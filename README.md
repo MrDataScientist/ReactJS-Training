@@ -1,4 +1,4 @@
-# ReactJS-Training
+# ReactJS-Training  : Round 1
 -This is a future course
 
 ##Editor :
@@ -27,3 +27,5 @@
     12. Working with Array 
     13. Adding Product Form 
     14. Creating Product Function
+
+# ReactJS-Training  : Round 2
