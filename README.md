@@ -5,7 +5,8 @@
 ### https://plnkr.co/edit/?p=catalogue
 
 ##Sources
-### Here is an example for doing isomorphic rendering with React: https://github.com/mhart/react-server-example
+### Here is an example for doing isomorphic rendering with React:
+- https://github.com/mhart/react-server-example
 
 
 ##Getting Started
