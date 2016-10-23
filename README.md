@@ -1,10 +1,9 @@
 # ReactJS-Training  : Round 1
 -This is a future course
 
-##Editor :
-### https://plnkr.co/edit/?p=catalogue
+### Editor :
+- https://plnkr.co/edit/?p=catalogue
 
-##Sources
 ### Here is an example for doing isomorphic rendering with React:
 - https://github.com/mhart/react-server-example
 
