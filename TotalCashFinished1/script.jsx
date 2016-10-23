@@ -11,7 +11,7 @@ var Product = React.createClass({
 	this.props.handleShow(this.props.name);
   },
   
- 
+  
   render: function(){
     return(
 		<div>
@@ -19,7 +19,6 @@ var Product = React.createClass({
 			<button onClick={this.buy}>Buy</button>
 			<button onClick={this.show}>Show</button>
 			<h3>Qty: {this.state.qty} item(s)</h3>
-			<hr/>
 		</div>
       );
   }
@@ -36,41 +35,42 @@ var Total = React.createClass({
 });
 
 var ProductList = React.createClass({
+
 	getInitialState: function(){
 		return {
-				total: 0,
-				productList: [
-					{name="Android", price: 121},
-					{name="Apple", price: 123},
-					{name="Nokia", price: 369}
+			total: 0,
+			productList: [
+				{name: "Android", price: 1},
+				{name: "Apple", price: 2},
+				{name: "Nokia", price: 3}
 			]
 		};
 	},
 	
 	calculateTotal: function(price){
 		this.setState({total: this.state.total + price});
-		alert(this.state.total);
 	},
 
 	showProduct: function(name){
 		alert("You selected" + name);
 	},
-	render: function(){
-		var component = this();
-		var products = this.state.productList.map( function(product){
-			return(
-				<Product name={product.name} price={product.price} 
-					handleShow={component.showProduct}
-					handleTotal={component.calculateTotal}/>
-		);
-	});
 	
-			return(
-				<div>
-					{products}
-					<Total total={this.state.total}/>
-				</div>
-		);
+	render: function(){
+		var component = this;
+		var products = this.state.productList.map(function(product){
+		  return(
+			<Product name={product.name} price={product.price} 
+				handleShow={component.showProduct}
+				handleTotal={component.calculateTotal}/>
+				);
+			});
+		
+		return(
+		  <div>
+			    {products} 
+			    <Total total={this.state.total}/>
+		  </div>
+	  );
 	}
 });
 
