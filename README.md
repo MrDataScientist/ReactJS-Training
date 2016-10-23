@@ -4,6 +4,9 @@
 ##Editor :
 ### https://plnkr.co/edit/?p=catalogue
 
+##Sources
+### Here is an example for doing isomorphic rendering with React: Example on Github
+
 
 ##Getting Started
 
