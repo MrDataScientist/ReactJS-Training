@@ -6,11 +6,19 @@ It’s called JSX, and it is a Javascript XML syntax transform. This lets you wr
 I say HTML-ish because there are a couple gotchas. You are really just writing XML based object representations.
 
 ## component
+
 - This is the basic structure for a component.
-var MyComponent = React.createClass({
-    render: function(){
-        return (
-            <h1>Hello, world!</h1>
-        );
-    }
-});
+
+    
+    var MyComponent = React.createClass({
+    render: function(){  return ( <h1>Hello, world!</h1>);
+        }
+    });
+
+- After creating a class we can render it to our document like so:
+
+
+    ReactDOM.render(
+    <MyComponent/>,
+    document.getElementById('myDiv')
+    );
