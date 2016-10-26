@@ -11,7 +11,7 @@ I say HTML-ish because there are a couple gotchas. You are really just writing X
 
     
 ```js var MyComponent = React.createClass({
-    render: function(){  return ( <h1>Hello, world!</h1>);
+        render: function(){  return ( <h1>Hello, world!</h1>);
         }
     });
 ```
@@ -21,9 +21,9 @@ I say HTML-ish because there are a couple gotchas. You are really just writing X
 
 ```js
     - ReactDOM.render(
-    <MyComponent/>,
-    document.getElementById('myDiv')
-    );
+         <MyComponent/>,
+         document.getElementById('myDiv')
+         );
 ```
 
 ## Props
@@ -32,11 +32,20 @@ When we use our defined components, we can add attributes called props. These at
 
 
 ```js var MyComponent = React.createClass({
-    render: function(){
-        return (
+         render: function(){
+          return (
             <h1>Hello, {this.props.name}!</h1>
-        );
-    }
+            );
+          }
 });
-```
+
 ReactDOM.render(<MyComponent name="Handsome" />, document.getElementById('myDiv')
+```
+
+## instalation
+```html
+<!-- The core React library -->
+<script src="https://fb.me/react-15.0.1.js"></script>
+<!-- The ReactDOM Library -->
+<script src="https://fb.me/react-dom-15.0.1.js"></script>
+```
