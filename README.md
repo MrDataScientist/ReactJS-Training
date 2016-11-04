@@ -32,3 +32,7 @@
     14. Creating Product Function
 
 # ReactJS-Training  : Round 2
+
+### Sources :
+- https://egghead.io/lessons/react-react-fundamentals-development-environment-setup?course=react-fundamentals
+- https://www.quora.com/Whats-the-best-place-to-learn-React-js 
