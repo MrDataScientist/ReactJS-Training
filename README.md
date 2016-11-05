@@ -59,3 +59,7 @@ ReactJS and Flux Project 8 – Youtube Gallery – Create a mind boggling video 
 ReactJS and Flux Project 9 – Socket . io Chat – Learn how to make a practical visit application that permits you to make a username and send messages forward and backward over web attachments.
 
 ReactJS and Flux Project 10 – Workout Logger – Finally a standout amongst the most fascinating and the most complex application in the rundown, this Workout Logger will have a versatile neighborly interface and will likewise show you how to make a nearby stockpiling.
+
+
+# when Im hired
+https://www.udemy.com/react-redux/
