@@ -78,9 +78,10 @@ https://www.udemy.com/react-redux/
 - .
 -  3 hours - virtual reality apps - David Katz . Software Engineering Intern at Zendesk
 -  
--  
--  
+-  5 hours react, redux (please check react version 16)
+-  https://www.udemy.com/react-js-and-redux-mastering-web-apps/learn/v4/overview
 -  
 # ReactJS-Training  : Round 4 - 15 July. 2018
 - 7 hours React security -
 - https://www.udemy.com/react-security/
+
