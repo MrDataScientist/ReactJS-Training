@@ -65,3 +65,5 @@ ReactJS and Flux Project 10 – Workout Logger – Finally a standout amongst th
 https://www.udemy.com/react-redux/
 
 # ReactJS-Training  : Round 3 - June 2018
+
+## to be filtered
