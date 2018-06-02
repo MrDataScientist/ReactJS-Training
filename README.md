@@ -81,7 +81,13 @@ https://www.udemy.com/react-redux/
 - .
 -  5 hours react, redux (please check react version 16)
 -  https://www.udemy.com/react-js-and-redux-mastering-web-apps/learn/v4/overview
--  
+- .
+- 38 minutes . How to start developing react
+-  https://www.udemy.com/reactjs-start/learn/v4/overview
+- .
+- 8 hours - React JS - Build real world JS apps & deploy on cloud
+- https://www.udemy.com/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/learn/v4/overview
+-
 # ReactJS-Training  : Round 4 - 15 July. 2018
 - 7 hours React security -
 - https://www.udemy.com/react-security/
