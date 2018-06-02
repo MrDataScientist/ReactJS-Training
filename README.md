@@ -103,3 +103,5 @@ https://www.udemy.com/react-redux/
 - 1 hour - secure the app with Auth
 - https://www.udemy.com/secure-your-reactjs-applications-with-auth0/learn/v4/overview
 
+
+# dont forget software best practice( git ignore + standard javascript + forks for versions)
