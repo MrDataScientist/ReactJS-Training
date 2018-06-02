@@ -92,7 +92,7 @@ https://www.udemy.com/react-redux/
 - 12 hours - 12 project in react
 - https://www.udemy.com/javascript-and-react-for-beginners-create-12-projects/learn/v4/overview
 - .
-- Learn and understand react
+- 16.5 hours . Learn and understand react
 - https://www.udemy.com/learn-and-understand-react-and-redux-i/learn/v4/content
 - 
 - 
