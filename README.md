@@ -88,7 +88,11 @@ https://www.udemy.com/react-redux/
 - .
 - 8 hours - React JS - Build real world JS apps & deploy on cloud
 - https://www.udemy.com/reactjs-for-beginners-build-real-world-react-apps-deploy-on-cloud/learn/v4/overview
--
+- 
+- 12 hours - 12 project in react
+- https://www.udemy.com/javascript-and-react-for-beginners-create-12-projects/learn/v4/overview
+- 
+- 
 # ReactJS-Training  : Round 4 - 15 July. 2018
 - 7 hours React security -
 - https://www.udemy.com/react-security/
