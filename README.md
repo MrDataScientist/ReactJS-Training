@@ -76,9 +76,11 @@ https://www.udemy.com/react-redux/
 -  6 hours - absolut beginner - Bluelime Learning Solutions .Learning made simple
 - https://www.udemy.com/react-for-absolute-beginners/learn/v4/overview
 - .
-- 
-- 
-- 
-- 
-- 
-- 
+-  3 hours - virtual reality apps - David Katz . Software Engineering Intern at Zendesk
+-  
+-  
+-  
+-  
+# ReactJS-Training  : Round 4 - 15 July. 2018
+-  React security
+- https://www.udemy.com/react-security/
