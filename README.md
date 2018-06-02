@@ -61,5 +61,7 @@ ReactJS and Flux Project 9 – Socket . io Chat – Learn how to make a practica
 ReactJS and Flux Project 10 – Workout Logger – Finally a standout amongst the most fascinating and the most complex application in the rundown, this Workout Logger will have a versatile neighborly interface and will likewise show you how to make a nearby stockpiling.
 
 
-# when Im hired
+# when it's time
 https://www.udemy.com/react-redux/
+
+# ReactJS-Training  : Round
