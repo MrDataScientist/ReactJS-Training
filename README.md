@@ -82,5 +82,5 @@ https://www.udemy.com/react-redux/
 -  
 -  
 # ReactJS-Training  : Round 4 - 15 July. 2018
--  React security
+- 7 hours React security -
 - https://www.udemy.com/react-security/
