@@ -69,4 +69,6 @@ https://www.udemy.com/react-redux/
 ## to be filtered
 - https://www.udemy.com/home/my-courses/search/?q=react
 ### courses round one
+- 16 hours - Mateusz Grzesiukiewicz  .Senior Frontend Developer
+- https://www.udemy.com/learning-react-and-redux-decoupling-with-stateless-components/learn/v4/overview
 - 
