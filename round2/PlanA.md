@@ -1,8 +1,5 @@
-
-
 # ReactJS-Training  : Round 3 - June 2018
 
-- .
 - 16 hours - Mateusz Grzesiukiewicz  .Senior Frontend Developer
 - https://www.udemy.com/learning-react-and-redux-decoupling-with-stateless-components/learn/v4/overview
 - .
